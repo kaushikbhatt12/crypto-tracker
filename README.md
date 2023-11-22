@@ -10,6 +10,13 @@
 - [Chart JS]
 - [Firebase]
 
+## Features
+
+- Login and signup using Firebase
+- Track realtime prices of cryptocurrencies
+- Add your favourite cryptocurrencies to your watchlist
+- Responsive
+
 
 ![image](https://github.com/kaushikbhatt12/crypto-tracker/assets/82044181/ac773526-71e7-441b-adb8-1fbece91592e)
 
